@@ -1,0 +1,65 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: ivory;
+  font-family: 'Comic Sans', Cursive;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
+
+/* Header Title */
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #f9f7f7;
+  margin:30px;
+  font-size:20px;
+}
+
+
+.c-site-header{
+  color: purple;
+  text-align: center;
+  font-size: 80px;
+}
+
+.c-site-footer{
+  color: black; text-align: center;
+}
+
+/*-----------------navigation--------------*/
+nav {
+  text-align: left;
+  width: 100%;
+  
+  }
+/*------p------*/
+p {
+  line-height: 2.0;
+  font-size: 20px;
+  background: lightgreen;
+  border: 1px solid limegreen;
+  }
+
+img.scale { width : 30%; height : auto ; border : 2px dashed yellow;}
+
+#horizontal {
+         padding-left: 10px; 
+         display: block;
+  
+ foot#page {
+           margin-top: 20px;
+           width: 50%;
+}
